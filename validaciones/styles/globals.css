@@ -32,7 +32,7 @@ div svg {
 .footer {
     width: 100%;
     padding: 175px 0px 25px 0px;
-    background-image: url(../img/fotter.svg);
+    background-image: url(../public/img/fotter.svg);
     background-size: cover;
 }
 
