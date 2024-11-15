@@ -12,6 +12,10 @@
         "dest": "/public/validate_json.html"
       },
       {
+        "src": "/",
+        "dest": "/validate_json.html"
+      },
+      {
         "src": "/css/(.*)",
         "dest": "/public/css/$1"
       },
